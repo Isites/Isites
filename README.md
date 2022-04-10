@@ -7,3 +7,5 @@
 
 
 ![Isites's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
+
+![](https://stats.justsong.cn/api/github?username=Isites)
