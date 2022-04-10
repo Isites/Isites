@@ -6,6 +6,8 @@
 - ⚡ Fun fact: coding is my passion
 
 
-![Isites's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
 
 ![](https://stats.justsong.cn/api/github?username=Isites)
+
+![]https://github-readme-stats.vercel.app/api/wakatime?username=Isites)
