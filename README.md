@@ -7,10 +7,10 @@
 
 
 <a href="#">
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=Isites&count_private=true&show_icons=true&theme=github" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=Isites&count_private=true&show_icons=true&theme=github" />
 </a>
 <a href="#">
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isites&hide=Java,HTML,PHP&layout=compact&theme=github" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isites&hide=Java,HTML,PHP&layout=compact&theme=github" />
 </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Isites&theme=github-light)
