@@ -5,6 +5,5 @@
 - 📫 How to reach me: 23shuaixw@gmail.com
 - ⚡ Fun fact: coding is my passion
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isites)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
+![Isites's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
