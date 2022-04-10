@@ -6,8 +6,9 @@
 - ⚡ Fun fact: coding is my passion
 
 
-![](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Isites&count_private=true&show_icons=true&theme=github)
 
-![](https://stats.justsong.cn/api/github?username=Isites)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isites&theme=github)
 
-![](https://activity-graph.herokuapp.com/graph?username=Isites&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=Isites&theme=github)
+
