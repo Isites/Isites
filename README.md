@@ -13,5 +13,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isites&layout=compact&theme=github" />
 </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=Isites&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=Isites&theme=github-light)
 
